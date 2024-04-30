@@ -1,1 +1,4 @@
-# ranajitpaul
+- 👋 Hi, I’m @ranajitpaul69
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning b-tech in the department of cse (4th year)
+- 📫 How to reach me : ranajitpaul141999@gmail.com
